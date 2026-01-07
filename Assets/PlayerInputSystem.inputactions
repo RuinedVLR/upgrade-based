@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "PlayerInputSystem",
+    "maps": [
+        {
+            "name": "Keyboard",
+            "id": "3e477e41-de12-4334-a222-3f7588cf0e27",
+            "actions": [
+                {
+                    "name": "Interact",
+                    "type": "Button",
+                    "id": "72007733-5eb6-4d19-a16a-3d69c6767e77",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9be882fa-0d6b-4404-a71e-99fd5febc61e",
+                    "path": "<Keyboard>/e",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Interact",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
