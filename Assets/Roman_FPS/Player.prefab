@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 2707709226652303537}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -119,7 +119,7 @@ MonoBehaviour:
   crouchKey: 306
   standCheckLayers:
     serializedVersion: 2
-    m_Bits: 8
+    m_Bits: 0
   standCheckPadding: 0.02
   player: {fileID: 8202460003943101446}
   playerCamera: {fileID: 8270584594337257390}
